@@ -43,13 +43,23 @@
   
 </div>
 
-<h2 align="center">- Article -</h2>
+<h2 align="center">- Projects -</h2>
 <div align="center">
 
-[**[Database] DB 성능 최적화 - 인덱스(Index)**](https://til.seungwook.com/613)
-[**[Database] 트랜잭션 ACID, DB 연결구조와 세션**](https://til.seungwook.com/613)
-[**[Ubuntu] SSH 원격접속 보안 강화**](https://til.seungwook.com/775)
-[**[Github Actions] 기본 문법 + 스프링부트 프로젝트 배포 자동화**](https://til.seungwook.com/754)
+🔹 <a href="https://github.com/seungwook0924/KTSP"><b>강원대학교 재능 공유 플랫폼</b></a> <br>
+🔹 <a href="https://github.com/seungwook0924/promise"><b>스마트약통 & 애플리케이션 연동 복약 플랫폼</b></a> <br>
+🔹 <a href="https://github.com/seungwook0924/receipt2recipe"><b>영수증 인식 & 재료 기반 레시피 추천 애플리케이션</b></a> <br>
+
+</div>
+
+<h2 align="center">- Articles -</h2>
+<div align="center">
+
+🔹 <a href="https://til.seungwook.com/613"><b>[Database] DB 성능 최적화 - 인덱스(Index)</b></a> <br>
+🔹 <a href="https://til.seungwook.com/613"><b>[Database] 트랜잭션 ACID, DB 연결구조와 세션</b></a> <br>
+🔹 <a href="https://til.seungwook.com/775"><b>[Ubuntu] SSH 원격접속 보안 강화</b></a> <br>
+🔹 <a href="https://til.seungwook.com/754"><b>[Github Actions] 기본 문법 + 스프링부트 프로젝트 배포 자동화</b></a> <br>
+🔹 <a href="https://til.seungwook.com/707"><b>[JPA] 병합(Merge)과 변경 감지(Dirty Checking)</b></a>
 
 </div>
 
