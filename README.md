@@ -53,10 +53,10 @@
 🔹 <a href="https://til.seungwook.com/733"><b>[Database] DB 성능 최적화 - 인덱스(Index)</b></a> <br>
 🔹 <a href="https://til.seungwook.com/613"><b>[Database] 트랜잭션 ACID, DB 연결구조와 세션</b></a> <br>
 🔹 <a href="https://til.seungwook.com/707"><b>[JPA] 병합(Merge)과 변경 감지(Dirty Checking)</b></a>
-
 </div>
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </p>
+<br>
