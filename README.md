@@ -54,6 +54,7 @@
 🔹 <a href="https://til.seungwook.com/613"><b>[Database] 트랜잭션 ACID, DB 연결구조와 세션</b></a> <br>
 🔹 <a href="https://til.seungwook.com/707"><b>[JPA] 병합(Merge)과 변경 감지(Dirty Checking)</b></a>
 </div>
+<br>
 
 
 <p align="center">
